@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FeedURL</key>
+		<string>http://sports-ak.espn.go.com/espn/rss/news</string>
+		<key>SiteIconURLs</key>
+		<array>
+			<string>http://espn.go.com/apple-touch-icon-precomposed.png</string>
+			<string>http://espn.go.com/apple-touch-icon.png</string>
+			<string>http://espn.go.com/favicon.ico</string>
+		</array>
+		<key>SourceURL</key>
+		<string>http://espn.go.com/</string>
+		<key>State</key>
+		<integer>2</integer>
+		<key>SubscribedWhenSyncWasOff</key>
+		<false/>
+		<key>Title</key>
+		<string>RSS Feed</string>
+	</dict>
+	<dict>
+		<key>FeedURL</key>
+		<string>http://images.apple.com/main/rss/hotnews/hotnews.rss</string>
+		<key>SiteIconURLs</key>
+		<array>
+			<string>http://www.apple.com/apple-touch-icon-precomposed.png</string>
+			<string>http://www.apple.com/apple-touch-icon.png</string>
+			<string>http://www.apple.com/favicon.ico</string>
+		</array>
+		<key>SourceURL</key>
+		<string>http://www.apple.com/</string>
+		<key>State</key>
+		<integer>2</integer>
+		<key>SubscribedWhenSyncWasOff</key>
+		<false/>
+		<key>Title</key>
+		<string>RSS</string>
+	</dict>
+</array>
+</plist>
